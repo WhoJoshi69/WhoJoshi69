@@ -5,7 +5,7 @@
 - 📫 How to reach me - is a complex question
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i didn't write this readme, it's AI generated.
-
+- Check out more on https://superintro.in/darshitjoshi
 <!---
 WhoJoshi69/WhoJoshi69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
