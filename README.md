@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **prompt engineering or AI tools news you have**
 
-- 👨‍💻 A little more about me at [https://superintro.in/portfolio/darshitjoshi](https://superintro.in/portfolio/darshitjoshi)
+- 👨‍💻 A little more about me at [https://darshit-joshi.vercel.app/](https://darshit-joshi.vercel.app/)
 
 - 📝 I will regularly write articles on [some channel i will share in a while](some channel i will share in a while)
 
